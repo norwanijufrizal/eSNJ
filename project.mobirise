@@ -1482,6 +1482,12 @@
             },
             ".mbr-timeline-text": {
               "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle I": {
+              "color": "#efefef"
             }
           },
           "_name": "timeline1",
@@ -1617,6 +1623,9 @@
                 "-webkit-flex-basis": "33%",
                 "flex-basis": "33%"
               }
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
             }
           },
           "_name": "progress-bars3",

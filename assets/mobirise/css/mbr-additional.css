@@ -2637,6 +2637,12 @@ body {
 .cid-rMCSFIm8E3 .mbr-timeline-text {
   text-align: left;
 }
+.cid-rMCSFIm8E3 .mbr-section-title B {
+  color: #ffffff;
+}
+.cid-rMCSFIm8E3 .mbr-section-subtitle I {
+  color: #efefef;
+}
 .cid-rMCVAvg1gz {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2742,6 +2748,9 @@ body {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-rMCX16cMwu .mbr-section-title B {
+  color: #ffffff;
 }
 .cid-rMCXuSQAk5 {
   padding-top: 90px;
