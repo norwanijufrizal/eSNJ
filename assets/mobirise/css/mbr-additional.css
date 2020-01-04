@@ -2343,8 +2343,8 @@ body {
   }
 }
 .cid-rMBLOHk4A2 {
-  padding-top: 135px;
-  padding-bottom: 90px;
+  padding-top: 90px;
+  padding-bottom: 45px;
   background-color: #87d3ed;
 }
 .cid-rMBLOHk4A2 .title {
@@ -2409,6 +2409,12 @@ body {
 }
 .cid-rMBLOHk4A2 H2 {
   text-align: center;
+}
+.cid-rMBLOHk4A2 B {
+  color: #ffffff;
+}
+.cid-rMBLOHk4A2 .mbr-section-subtitle I {
+  color: #efefef;
 }
 .cid-rMCPa4KIbH {
   padding-top: 90px;
