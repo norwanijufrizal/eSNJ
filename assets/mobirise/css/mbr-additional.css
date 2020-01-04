@@ -2416,6 +2416,9 @@ body {
 .cid-rMBLOHk4A2 .mbr-section-subtitle I {
   color: #efefef;
 }
+.cid-rMBLOHk4A2 .mbr-section-subtitle B {
+  color: #efefef;
+}
 .cid-rMCPa4KIbH {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2794,7 +2797,7 @@ body {
 }
 .cid-rMCYMAxFR6 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rMCYMAxFR6 P {
@@ -2951,7 +2954,7 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rME51Dc5I7 {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -3021,8 +3024,8 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rME4TMcORV {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rME4TMcORV P {
